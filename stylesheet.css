@@ -1,0 +1,22 @@
+body{
+    margin: 5%;
+    background-color:rgb(254, 246, 246);
+ 
+}
+.main{
+    text-align: center;
+}
+.cover{
+    width: 70%;
+}
+.links{
+    list-style-type: none;
+   
+}
+.link{
+   list-style-type:none ; 
+}
+
+.credit{
+    font-weight: bold;
+}
